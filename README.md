@@ -1,4 +1,4 @@
-# User posting Management System
+# User posting Management System built with AI Agent
 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.5.3-brightgreen.svg)](https://spring.io/projects/spring-boot)
 [![Java](https://img.shields.io/badge/Java-17-orange.svg)](https://www.oracle.com/java/)
@@ -6,6 +6,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 A modern, RESTful web service built with Spring Boot for managing users posting operations, including user management and post publishing functionality.
+A combination of Claude 4 Sonnet and ChatGPT 4o as coding agent.
 
 ## 🚀 Features
 
