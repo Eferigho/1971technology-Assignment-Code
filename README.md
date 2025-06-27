@@ -169,7 +169,7 @@ src/
 ├── main/
 │   ├── java/
 │   │   └── com/agency/
-│   │       ├── NewsApplication.java           # Main application class
+│   │       ├── PostingApplication.java           # Main application class
 │   │       ├── controller/                    # REST controllers
 │   │       │   ├── UserController.java
 │   │       │   └── PostController.java
@@ -201,7 +201,7 @@ src/
             │   ├── UserServiceImplIntegrationTest.java
             │   ├── PostServiceImplUnitTest.java
             │   └── PostServiceImplIntegrationTest.java
-            └── NewsApplicationTests.java      # Application context test
+            └── PostingApplicationTests.java      # Application context test
 ```
 
 
@@ -382,4 +382,4 @@ If you have any questions or issues, please:
 
 ---
 
-**Happy Coding! 🎉**
+**Happy AI Coding! 🎉**
