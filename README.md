@@ -54,8 +54,8 @@ Before running this application, make sure you have:
 ### 1. Clone the Repository
 
 ```shell script
-git clone <repository-url>
-cd news-agency-management
+git clone https://github.com/Eferigho/1971technology-Assignment-Code.git
+cd postingApp
 ```
 
 
